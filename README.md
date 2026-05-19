@@ -3,8 +3,6 @@
 
 ## Project Overview
 
-Jar - A personal finance tracker with real-time transaction categorization. Built with Next.js 15 (frontend) and NestJS (backend) in a monorepo structure.
-
 ## Critical Rules - DO NOT VIOLATE
 
 - **MUST** research internet for document, or social like stackoverflow, github issue, reddit for help. Not guess the answer

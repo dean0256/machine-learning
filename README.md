@@ -3,8 +3,6 @@
 
 ## Project Overview
 
-## Critical Rules - DO NOT VIOLATE
-
 - **MUST** research internet for document, or social like stackoverflow, github issue, reddit for help. Not guess the answer
 - **MUST** write test after implemented - but only write Business Logic tests, no need test for initialization. Handle Happy path, Edge cases (empty input, max values, boundary conditions), and Error conditions
 - **MUST** follow **solid** skill to implement code changes.

@@ -29,6 +29,15 @@
 
 #### Quick command map
 
+- **MUST** design UI for human read, not AI read.
+- **ALWAYS** reread lib document, not guess the answer
+- **MUST** follow existing coding patterns and styles
+- **MUST** NOT name functions with `build...`; use `get...` for retrieval/derivation and `create...` for construction/creation semantics
+- **NEVER** keep backward compatibility (this is fresh project, not production ready), try to cleanup old code as much as possible
+- **NEVER** create document file after implement if not be asked
+- **ALWAYS** research existing libs first - not reinvent the wheel
+- **MUST** try to use markdown table or **mermaidjs v11 skill** diagram to explain any user's question
+
 | Need | Command |
 |---|---|
 | Orientation | `srcwalk map --scope <dir>` |
